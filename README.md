@@ -1,5 +1,5 @@
 # My Projects
-This is where ill post my first few beginner-beginner Python projects I coded when I started with coding/Python.
+This is where ill post my first few beginner-beginner and smaller Python projects I coded when I started with coding/Python.
 
 You can do with it whatever you want! I don't mind.
 
