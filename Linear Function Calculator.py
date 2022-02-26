@@ -1,4 +1,4 @@
-print("This tool was made to give a term representation of f, using two known points from the graf of a linear function f. Eg.: (Px | Py), (Qx | Qy)\n\n")
+print("This tool was made to give a term representation of f, using two known points from the graf of a linear function f.\nEg.: (Px | Py), (Qx | Qy)\n\n")
 def calc():
     
     # Input Variables
